@@ -4,9 +4,11 @@ Have you used version control software:
 * no
 
 Have you used git:
-*yes
-*no
+
+* yes
+* no
 
 Have you used github:
-*yes
-*no
+
+* yes
+* no
