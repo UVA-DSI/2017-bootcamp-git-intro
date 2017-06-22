@@ -1,7 +1,7 @@
 Have you used version control software:
 
-*yes
-*no
+* yes
+* no
 
 Have you used git:
 *yes
