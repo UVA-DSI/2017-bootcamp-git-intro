@@ -1,6 +1,7 @@
 # Solo work in web browser
 
 * create an account
+  - keep in mind that this is a public platform
 * create a repository
 * customize a repository
   - strongly recommended
