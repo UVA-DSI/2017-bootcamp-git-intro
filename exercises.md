@@ -14,6 +14,7 @@
 * forking a repository
 * making a pull request
 * leave a comment on a specific line of code
+* configure .gitignore
 * how to make the most use of the collaboration tools
 
 # Solo work on desktop
@@ -23,3 +24,7 @@
 * edit an existing file
 * making a pull request
 * sync between remote and desktop
+
+# Bonus task
+
+* set up a website using GitHub pages
