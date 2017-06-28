@@ -18,6 +18,7 @@
 - filters
 - [topics](https://github.com/search?q=topic%3Agit)
 - projects
+- commit summaries
 - GitHub pages
 - Graphs
 
