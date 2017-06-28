@@ -10,11 +10,16 @@
 
 ## Features
 
+- API
+- issues
 - labels
 - milestones
+- tool tips
+- filters
 - [topics](https://github.com/search?q=topic%3Agit)
 - projects
 - GitHub pages
+- Graphs
 
 ## Use cases
 
