@@ -25,7 +25,7 @@
 * leave a comment on a specific line of code
 * how to make the most use of the collaboration tools
 
-# Solo work on desktop
+# Solo work via command line
 
 * forking a repository
 * create a new file
