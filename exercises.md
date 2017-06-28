@@ -14,7 +14,7 @@
 
 # Group work in web browser
 
-* navigating github to find collaborators
+* navigating GitHub to find collaborators
 * adding a collaborator to your repository
 * editing a shared repository directly
 * forking a repository
