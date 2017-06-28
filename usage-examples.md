@@ -40,4 +40,5 @@
 - data
   - dat
   - Quilt
+- data management plans
 - data citation
