@@ -27,6 +27,8 @@
 - collaborative software development
 - collaborative writing
   - in the repo itself
+    - manuscripts
+    - grant proposals
   - in the wiki
 - project management
 - peer review
