@@ -1,6 +1,10 @@
 # About
 
-This repository hosts information related to an introduction to version control and GitHub that will take place on July 7 from 9 am till 12 pm EDT.
+This repository hosts information related to an introduction to version control and GitHub.
+
+# Schedule
+
+The class is to take place on July 7 from 9 am till 12 pm EDT. For details, see the [schedule](schedule.tsv).
 
 # Technical requirements
 
