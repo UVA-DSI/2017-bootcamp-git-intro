@@ -29,6 +29,8 @@
   - in the repo itself
     - manuscripts
     - grant proposals
+    - policies
+      - [Federal Source Code Policy](https://sourcecode.cio.gov/)
   - in the wiki
 - project management
 - peer review
