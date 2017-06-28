@@ -1,4 +1,5 @@
-# Solo work in web browser
+# Hands-on work in web browser
+*as demoed by instructors*
 
 * create an account
   - keep in mind that this is a public platform
@@ -27,7 +28,8 @@
 * leave a comment on a specific line of code
 * how to make the most use of the collaboration tools
 
-# Solo work via command line
+# Hands-on work via command line
+*with assistance upon request*
 
 * forking a repository
 * create a new file
