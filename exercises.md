@@ -6,7 +6,8 @@
   - strongly recommended
     - [LICENSE](LICENSE)
     - [README.md](README.md)
-* create an issue
+* comment on an issue
+* create a new issue
 * create a new file
   * .md
   * .tsv
