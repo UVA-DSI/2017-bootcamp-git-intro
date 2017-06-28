@@ -1,6 +1,6 @@
 # About
 
-This repository hosts information related to an introduction to version control and GitHub that will take place on July 7 from 9-12 am EDT.
+This repository hosts information related to an introduction to version control and GitHub that will take place on July 7 from 9 am till 12 pm EDT.
 
 # Practice
 
