@@ -2,6 +2,14 @@
 
 * create an account
 * create a repository
+* customize a repository
+  - strongly recommended
+    - [LICENSE](LICENSE)
+    - [README.md](README.md)
+  - optional
+    - .gitignore
+    - [ISSUE_TEMPLATE.md](ISSUE_TEMPLATE.md)
+    - [CONTRIBUTING.md](CONTRIBUTING.md)
 * create an issue
 * create a new file
 * edit an existing file
@@ -14,7 +22,6 @@
 * forking a repository
 * making a pull request
 * leave a comment on a specific line of code
-* configure .gitignore
 * how to make the most use of the collaboration tools
 
 # Solo work on desktop
