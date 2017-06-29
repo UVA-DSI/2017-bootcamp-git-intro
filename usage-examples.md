@@ -24,6 +24,7 @@
 - [topics](https://github.com/search?q=topic%3Agit)
 - projects
 - commit summaries
+- [code review](https://github.com/features/code-review)
 - GitHub pages
 - Graphs
 
@@ -34,11 +35,22 @@
 - collaborative writing
   - in the repo itself
     - manuscripts
-      - the [Ten Simple Rules for Taking Advantage of Git and GitHub](http://doi.org/10.1371/journal.pcbi.1004668) was [written on GitHub](https://github.com/Daniel-Mietchen/github-paper)
+      - the [Ten Simple Rules for Taking Advantage of Git and GitHub](http://doi.org/10.1371/journal.pcbi.1004668) paper was [written on GitHub](https://github.com/Daniel-Mietchen/github-paper)
+      - [Undergraduate Handbook for the Department of Computer Science at the Unviersity of Virginia](https://github.com/uva-cs/ugrad-handbook)
     - grant proposals
+      - [Everpub](https://github.com/everpub/openscienceprize)
+      - [OpenDreamKit](https://github.com/OpenDreamKit/OpenDreamKit/tree/master/Proposal)
+      - [preQFT](https://github.com/drjjmc/preQFT_proposal)
+    - ontologies
+      - [Human Disease Ontology](https://github.com/DiseaseOntology/HumanDiseaseOntology)
+      - [Sustainable Development Goals Interface Ontology](https://github.com/SDG-InterfaceOntology/sdgio)
     - policies
       - [Federal Source Code Policy](https://sourcecode.cio.gov/)
       - [FAIR data ](https://github.com/FAIR-Data-EG/consultation)
+    - websites
+      - [Version Control with Git](http://swcarpentry.github.io/git-novice/)
+      - [Makergrounds](https://github.com/scholarslab/makergrounds)
+      - [ugrads.cs.virginia.edu/](https://github.com/uva-cs/ugrads.cs)
   - in the wiki
     - [analysis of the E. coli O104:H4 strain responsible for the May/June 2011 outbreak in Germany and Europe](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
 - data sharing
@@ -48,6 +60,8 @@
 - project management
   - [OpenSourceMalaria](https://github.com/OpenSourceMalaria)
 - peer review
+  - [pull request reviews](https://help.github.com/articles/about-pull-request-reviews/)
+  - [Journal of Open Source Software](https://github.com/openjournals/joss-reviews/issues)
 - conference planning
   - [TDWG 2017](https://tdwg.github.io/conferences/2017/call-for-abstracts/instructions/) &mdash; Biodiversity Information Standards, also known as the Taxonomic Databases Working Group (TDWG)
   - [Force 2017](https://github.com/force11/force2017) &mdash; Future of Research Communication and e-scholarship
