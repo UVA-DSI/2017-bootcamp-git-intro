@@ -46,3 +46,5 @@
   - Quilt
 - data management plans
 - data citation
+- continuous integration
+  - https://travis-ci.org/EnvironmentOntology/envo/builds/248163459
