@@ -30,6 +30,7 @@
 ## Use cases
 
 - collaborative software development
+  - [Trending repositories at GitHub](https://github.com/trending)
 - collaborative writing
   - in the repo itself
     - manuscripts
@@ -37,22 +38,30 @@
     - grant proposals
     - policies
       - [Federal Source Code Policy](https://sourcecode.cio.gov/)
+      - [FAIR data ](https://github.com/FAIR-Data-EG/consultation)
   - in the wiki
     - [analysis of the E. coli O104:H4 strain responsible for the May/June 2011 outbreak in Germany and Europe](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
+- data sharing
+  - [https://github.com/unitedstates](https://github.com/unitedstates)
 - project management
   - [OpenSourceMalaria](https://github.com/OpenSourceMalaria)
 - peer review
 - conference planning
+  - [TDWG 2017](https://tdwg.github.io/conferences/2017/call-for-abstracts/instructions/) &mdash; Biodiversity Information Standards, also known as the Taxonomic Databases Working Group (TDWG)
+  - [Force 2017](https://github.com/force11/force2017) &mdash; Future of Research Communication and e-scholarship
 - note taking
+  - [Daniel's notes on data science](https://github.com/Daniel-Mietchen/datascience/)
 
 # GitLab
 
-# Version control (2)
 
-- data
-  - dat
-  - Quilt
+# Version control and data
+
+- [dat](https://datproject.org/)
+- [Quilt](https://github.com/Daniel-Mietchen/ideas/issues/242)
 - data management plans
+- 
 - data citation
+  - see also [software citation]()
 - continuous integration
   - https://travis-ci.org/EnvironmentOntology/envo/builds/248163459
