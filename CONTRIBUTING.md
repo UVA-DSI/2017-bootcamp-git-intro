@@ -26,8 +26,8 @@ excludes people in socially marginalized groups.
 
 Private harassment is also unacceptable. No matter who you are, if you feel
 you have been or are being harassed or made uncomfortable by a community
-member, please contact one of the channel ops or any of the
-instructors immediately. Whether you're a regular contributor or a newcomer, we care about
+member, please contact one of the instructors immediately.
+Whether you're a regular contributor or a newcomer, we care about
 making this community a safe place for you and we've got your back.
 
 Likewise any spamming, trolling, flaming, baiting or other attention-stealing
