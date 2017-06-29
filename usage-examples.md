@@ -60,7 +60,7 @@
 - [dat](https://datproject.org/)
 - [Quilt](https://github.com/Daniel-Mietchen/ideas/issues/242)
 - data management plans
-- 
+- [data sharing](https://github.com/bw4sz/Occupy/blob/master/InputData/ObservedData.csv) (accompanying a [paper](https://doi.org/10.1016/j.fooweb.2017.05.002))
 - data citation
   - see also [software citation]()
 - continuous integration
