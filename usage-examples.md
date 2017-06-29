@@ -6,7 +6,12 @@
 
 # git
 
+* [overview](http://rogerdudler.github.io/git-guide/)
+* [manual](https://git-scm.com/docs/user-manual.html)
+* [Pro Git](https://git-scm.com/book/en/v2) book
+
 # GitHub
+
 
 ## Features
 
@@ -28,6 +33,7 @@
 - collaborative writing
   - in the repo itself
     - manuscripts
+      - the [Ten Simple Rules for Taking Advantage of Git and GitHub](http://doi.org/10.1371/journal.pcbi.1004668) was [written on GitHub](https://github.com/Daniel-Mietchen/github-paper)
     - grant proposals
     - policies
       - [Federal Source Code Policy](https://sourcecode.cio.gov/)
