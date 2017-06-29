@@ -43,6 +43,7 @@
     - [analysis of the E. coli O104:H4 strain responsible for the May/June 2011 outbreak in Germany and Europe](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
 - data sharing
   - [https://github.com/unitedstates](https://github.com/unitedstates)
+    - more on data [below](https://github.com/UVA-DSI/git-intro/blob/master/usage-examples.md#version-control-and-data)
 - project management
   - [OpenSourceMalaria](https://github.com/OpenSourceMalaria)
 - peer review
