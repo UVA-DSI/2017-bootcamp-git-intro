@@ -33,6 +33,7 @@
       - [Federal Source Code Policy](https://sourcecode.cio.gov/)
   - in the wiki
 - project management
+  - [OpenSourceMalaria](https://github.com/OpenSourceMalaria)
 - peer review
 - conference planning
 - note taking
