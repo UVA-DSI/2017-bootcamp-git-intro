@@ -37,8 +37,8 @@ behaviour is not welcome.
 
 [GitHub issues](https://github.com/UVA-DSI/git-intro/issues) are the primary way for communicating about specific aspects of this project.
 
+You're welcome to ask questions, discuss bugs and such &mdash; before, during and after the class.
 
-In both contexts, you're welcome to drop in and ask questions, discuss bugs and such.
 We expect you to follow the conduct guidelines above. Language issues
 are often contentious and we'd like to keep discussion brief, civil and focused
 on what we're actually doing, not wandering off into too much imaginary stuff.
