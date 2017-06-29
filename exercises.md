@@ -3,6 +3,7 @@
 
 * create an account
   - keep in mind that this is a public platform
+* watch this repository
 * create a repository
 * customize a repository
   - strongly recommended
