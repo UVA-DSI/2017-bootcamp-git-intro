@@ -32,6 +32,7 @@
     - policies
       - [Federal Source Code Policy](https://sourcecode.cio.gov/)
   - in the wiki
+    - [analysis of the E. coli O104:H4 strain responsible for the May/June 2011 outbreak in Germany and Europe](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
 - project management
   - [OpenSourceMalaria](https://github.com/OpenSourceMalaria)
 - peer review
