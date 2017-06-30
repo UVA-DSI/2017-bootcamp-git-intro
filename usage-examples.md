@@ -31,11 +31,12 @@
 ## Use cases
 
 - collaborative software development
-  - [Trending repositories at GitHub](https://github.com/trending)
+  - mostly closed but [a lot is public](https://github.com/trending)
 - collaborative writing
   - in the repo itself
     - manuscripts
-      - the [Ten Simple Rules for Taking Advantage of Git and GitHub](http://doi.org/10.1371/journal.pcbi.1004668) paper was [written on GitHub](https://github.com/Daniel-Mietchen/github-paper)
+      - [Ten Simple Rules for Taking Advantage of Git and GitHub](https://github.com/ypriverol/github-paper)
+      - [Ten simple rules for collaborative lesson development](https://github.com/swcarpentry/collaborative-lesson-development)
       - [Undergraduate Handbook for the Department of Computer Science at the Unviersity of Virginia](https://github.com/uva-cs/ugrad-handbook)
     - grant proposals
       - [Everpub](https://github.com/everpub/openscienceprize)
