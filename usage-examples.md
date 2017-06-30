@@ -54,6 +54,7 @@
       - [ugrads.cs.virginia.edu/](https://github.com/uva-cs/ugrads.cs)
   - in the wiki
     - [analysis of the E. coli O104:H4 strain responsible for the May/June 2011 outbreak in Germany and Europe](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
+    - [GBIF Integrated Publishing Toolkit](https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki)
 - data sharing
   - [https://github.com/unitedstates](https://github.com/unitedstates)
   - [https://github.com/GSA/data.gov/](https://github.com/GSA/data.gov/)
