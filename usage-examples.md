@@ -37,7 +37,7 @@
     - manuscripts
       - [Ten Simple Rules for Taking Advantage of Git and GitHub](https://github.com/ypriverol/github-paper)
       - [Ten simple rules for collaborative lesson development](https://github.com/swcarpentry/collaborative-lesson-development)
-      - [Undergraduate Handbook for the Department of Computer Science at the Unviersity of Virginia](https://github.com/uva-cs/ugrad-handbook)
+      - [Undergraduate Handbook for the Department of Computer Science at the University of Virginia](https://github.com/uva-cs/ugrad-handbook)
     - grant proposals
       - [Everpub](https://github.com/everpub/openscienceprize)
       - [OpenDreamKit](https://github.com/OpenDreamKit/OpenDreamKit/tree/master/Proposal)
