@@ -1,8 +1,20 @@
 # Version control (1)
 
 - software
+  - use cases
+    - history
+    - collaboration
+    - development of new features
+  - examples
+    - [Python development](https://github.com/python)
+    - [GIANT BUG](https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/commit/a047be85247755cdbe0acce6f1dafc8beb84f2ac)
 - text files
+  - [CVs](https://github.com/search?utf8=%E2%9C%93&q=cv&type=)
+    - [example](https://github.com/bamos/cv)
 - wikis
+  - [en.wikiboks:oldid=1903783](https://en.wikibooks.org/w/index.php?title=QEMU/Installing_QEMU&diff=prev&oldid=1903783) &mdash; child's play
+  - [en.wikipedia:oldid=325225752](https://en.wikipedia.org/w/index.php?title=The_Human_Centipede_%28First_Sequence%29&diff=325225944&oldid=325225752) &mdash; making sense of life
+  - [en.wikipedia:oldid=196444951](https://en.wikipedia.org/w/index.php?title=National_Hockey_League_awards&diff=196583627&oldid=196444951) &mdash; commas
 
 # git
 
@@ -35,11 +47,12 @@
 - collaborative software development
   - mostly closed but [a lot is public](https://github.com/trending)
     - [Apple](https://github.com/apple)
-    - [Google](https://github.com/google)
     - [Facebook](https://github.com/facebook)
+    - [Google](https://github.com/google)
     - [Mozilla](https://github.com/mozilla)
-    - [Wikimedia](https://github.com/wikimedia)
+    - [Open Virginia](https://github.com/openva)
     - [UVA / Charlottesville R Users Group](https://github.com/UVa-R-Users-Group)
+    - [Wikimedia](https://github.com/wikimedia)
 - collaborative writing
   - in the repo itself
     - manuscripts
@@ -74,6 +87,7 @@
 - peer review
   - [pull request reviews](https://help.github.com/articles/about-pull-request-reviews/)
   - [Journal of Open Source Software](https://github.com/openjournals/joss-reviews/issues)
+  - [eLife](https://github.com/elifesciences-publications)
 - conference planning
   - [TDWG 2017](https://tdwg.github.io/conferences/2017/call-for-abstracts/instructions/) &mdash; Biodiversity Information Standards, also known as the Taxonomic Databases Working Group (TDWG)
   - [Force 2017](https://github.com/force11/force2017) &mdash; Future of Research Communication and e-scholarship
