@@ -1,11 +1,12 @@
 # Version control (1)
 
 - general use cases
-  - history
+  - history (track changes/ backup)
   - collaboration
   - development of new features/ materials
 - wikis
   - evolution of an article
+    - [Data science](https://en.wikipedia.org/w/index.php?title=Data_science&oldid=486852290)
     - [Fukushima Daiichi nuclear disaster](https://en.wikipedia.org/w/index.php?title=Fukushima_Daiichi_nuclear_disaster&oldid=418470032)
     - [2013 Russian meteor shower](https://en.wikipedia.org/w/index.php?title=Chelyabinsk_meteor&oldid=538362987)
   - collaboration
@@ -20,7 +21,6 @@
   - examples
     - [Python development](https://github.com/python)
     - [GIANT BUG](https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/commit/a047be85247755cdbe0acce6f1dafc8beb84f2ac)
-    
 
 # git
 
