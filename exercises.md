@@ -1,4 +1,4 @@
-# Hands-on work in web browser
+# Hands-on work in web browser - Part I
 *as demoed by instructors*
 
 * create an account
