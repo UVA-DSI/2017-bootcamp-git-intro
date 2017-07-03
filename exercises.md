@@ -16,7 +16,7 @@
   * .tsv
 * edit an existing file
 
-# Group work in web browser
+# Group work in web browser - Part II
 
 * navigating GitHub to find collaborators
 * adding a collaborator to your repository
@@ -29,7 +29,7 @@
 * leave a comment on a specific line of code
 * how to make the most use of the collaboration tools
 
-# Hands-on work via command line
+# Hands-on work via command line - Part III
 *with assistance upon request*
 
 * forking a repository
