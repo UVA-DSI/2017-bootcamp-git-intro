@@ -21,6 +21,7 @@
 * navigating GitHub to find collaborators
 * adding a collaborator to your repository
 * editing a shared repository directly
+* writing a commit summary
 * forking a repository
 * working on a branch
 * making a pull request
