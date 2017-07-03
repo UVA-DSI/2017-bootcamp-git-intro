@@ -34,6 +34,12 @@
 
 - collaborative software development
   - mostly closed but [a lot is public](https://github.com/trending)
+    - [Apple](https://github.com/apple)
+    - [Google](https://github.com/google)
+    - [Facebook](https://github.com/facebook)
+    - [Mozilla](https://github.com/mozilla)
+    - [Wikimedia](https://github.com/wikimedia)
+    - [UVA / Charlottesville R Users Group](https://github.com/UVa-R-Users-Group)
 - collaborative writing
   - in the repo itself
     - manuscripts
@@ -58,8 +64,10 @@
     - [analysis of the E. coli O104:H4 strain responsible for the May/June 2011 outbreak in Germany and Europe](https://github.com/ehec-outbreak-crowdsourced/BGI-data-analysis/wiki)
     - [GBIF Integrated Publishing Toolkit](https://github.com/gbif/ipt/wiki/IPT2ManualNotes.wiki)
 - data sharing
-  - [https://github.com/unitedstates](https://github.com/unitedstates)
-  - [https://github.com/GSA/data.gov/](https://github.com/GSA/data.gov/)
+  - [US Federal Government](https://github.com/unitedstates)
+    - [data.gov](https://github.com/GSA/data.gov/)
+    - [CDC](https://github.com/cdcepi)
+  - [Cooper Hewitt, Smithsonian Design Museum](https://github.com/cooperhewitt/collection)
     - more on data [below](https://github.com/UVA-DSI/git-intro/blob/master/usage-examples.md#version-control-and-data)
 - project management
   - [OpenSourceMalaria](https://github.com/OpenSourceMalaria)
