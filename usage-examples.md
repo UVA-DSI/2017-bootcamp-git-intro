@@ -10,10 +10,12 @@
 * [manual](https://git-scm.com/docs/user-manual.html)
 * [Pro Git](https://git-scm.com/book/en/v2) book
 
-# GitHub
+# git-based platforms
+
+## GitHub
 
 
-## Features
+### Features
 
 - API
 - issues
@@ -28,7 +30,7 @@
 - GitHub pages
 - Graphs
 
-## Use cases
+### Use cases
 
 - collaborative software development
   - mostly closed but [a lot is public](https://github.com/trending)
@@ -70,8 +72,13 @@
 - note taking
   - [Daniel's notes on data science](https://github.com/Daniel-Mietchen/datascience/)
 
-# GitLab
+## GitLab
 
+* [homepage](http://gitlab.org/)
+
+## Bitbucket
+
+* [homepage](https://bitbucket.org/)
 
 # Version control and data
 
