@@ -46,4 +46,5 @@
 
 # Bonus task
 
-* set up a website using GitHub pages
+* set up a website using [GitHub pages](https://pages.github.com/)
+* Watch [Please. Stop Using Git.](https://www.youtube.com/watch?v=o4PFDKIc2fs) and discuss
