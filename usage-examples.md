@@ -1,20 +1,26 @@
 # Version control (1)
 
+- general use cases
+  - history
+  - collaboration
+  - development of new features/ materials
+- wikis
+  - evolution of an article
+    - [Fukushima Daiichi nuclear disaster](https://en.wikipedia.org/w/index.php?title=Fukushima_Daiichi_nuclear_disaster&oldid=418470032)
+    - [2013 Russian meteor shower](https://en.wikipedia.org/w/index.php?title=Chelyabinsk_meteor&oldid=538362987)
+  - collaboration
+    - [en.wikibooks:oldid=1903783](https://en.wikibooks.org/w/index.php?title=QEMU/Installing_QEMU&diff=prev&oldid=1903783) &mdash; child's play
+    - [en.wikipedia:oldid=325225752](https://en.wikipedia.org/w/index.php?title=The_Human_Centipede_%28First_Sequence%29&diff=325225944&oldid=325225752) &mdash; making sense of life
+    - [en.wikipedia:oldid=196444951](https://en.wikipedia.org/w/index.php?title=National_Hockey_League_awards&diff=196583627&oldid=196444951) &mdash; commas
+  - new stuff
+    - [new content](https://en.wikipedia.org/w/index.php?title=Castle&type=revision&diff=321253830&oldid=321252224)
+    - [changing the mechanics](https://en.wikipedia.org/w/index.php?title=Template%3AAuthority_control&type=revision&diff=554277178&oldid=538622020)
+    - [new feature](https://en.wikipedia.org/w/index.php?title=Module:Citation/CS1/Identifiers&diff=next&oldid=723701921)
 - software
-  - use cases
-    - history
-    - collaboration
-    - development of new features
   - examples
     - [Python development](https://github.com/python)
     - [GIANT BUG](https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/commit/a047be85247755cdbe0acce6f1dafc8beb84f2ac)
-- text files
-  - [CVs](https://github.com/search?utf8=%E2%9C%93&q=cv&type=)
-    - [example](https://github.com/bamos/cv)
-- wikis
-  - [en.wikiboks:oldid=1903783](https://en.wikibooks.org/w/index.php?title=QEMU/Installing_QEMU&diff=prev&oldid=1903783) &mdash; child's play
-  - [en.wikipedia:oldid=325225752](https://en.wikipedia.org/w/index.php?title=The_Human_Centipede_%28First_Sequence%29&diff=325225944&oldid=325225752) &mdash; making sense of life
-  - [en.wikipedia:oldid=196444951](https://en.wikipedia.org/w/index.php?title=National_Hockey_League_awards&diff=196583627&oldid=196444951) &mdash; commas
+    
 
 # git
 
@@ -91,6 +97,8 @@
 - conference planning
   - [TDWG 2017](https://tdwg.github.io/conferences/2017/call-for-abstracts/instructions/) &mdash; Biodiversity Information Standards, also known as the Taxonomic Databases Working Group (TDWG)
   - [Force 2017](https://github.com/force11/force2017) &mdash; Future of Research Communication and e-scholarship
+- [CVs](https://github.com/search?utf8=%E2%9C%93&q=cv&type=)
+  - [example](https://github.com/bamos/cv)
 - note taking
   - [Daniel's notes on data science](https://github.com/Daniel-Mietchen/datascience/)
 
