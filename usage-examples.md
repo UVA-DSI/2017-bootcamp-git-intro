@@ -88,5 +88,6 @@
 - [data sharing](https://github.com/bw4sz/Occupy/blob/master/InputData/ObservedData.csv) (accompanying a [paper](https://doi.org/10.1016/j.fooweb.2017.05.002))
 - data citation
   - see also [software citation]()
+- [software archiving](https://www.software.ac.uk/blog/2016-09-26-making-code-citable-zenodo-and-github)
 - continuous integration
   - https://travis-ci.org/EnvironmentOntology/envo/builds/248163459
