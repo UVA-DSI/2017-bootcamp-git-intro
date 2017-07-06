@@ -54,6 +54,7 @@
   - mostly closed but [a lot is public](https://github.com/trending)
     - [Apple](https://github.com/apple)
     - [Facebook](https://github.com/facebook)
+    - [GitHub](https://github.com/github)
     - [Google](https://github.com/google)
     - [Mozilla](https://github.com/mozilla)
     - [Open Virginia](https://github.com/openva)
@@ -89,6 +90,7 @@
       - [reused](https://chendaniely.shinyapps.io/zika_cdc_dashboard/)
         - [reused](https://github.com/andrawaag/Zika_Data2LinkedData)
   - [Cooper Hewitt, Smithsonian Design Museum](https://github.com/cooperhewitt/collection)
+  - GitHub's [Open Source Survey](https://github.com/github/open-source-survey)
     - more on data [below](https://github.com/UVA-DSI/git-intro/blob/master/usage-examples.md#version-control-and-data)
 - project management
   - [OpenSourceMalaria](https://github.com/OpenSourceMalaria)
