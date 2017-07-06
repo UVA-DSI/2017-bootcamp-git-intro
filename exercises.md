@@ -4,8 +4,7 @@
 * [create an account](https://github.com/join) - keep in mind that this is a public platform
 * [watch this repository](https://help.github.com/articles/watching-repositories/)
 * [create a repository](https://help.github.com/articles/create-a-repo/)
-* customize a repository
-  - strongly recommended
+* customize a repository - strongly recommended
     - [LICENSE](LICENSE)
     - [README.md](README.md)
 * comment on an issue
