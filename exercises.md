@@ -1,7 +1,7 @@
 # Hands-on work in web browser - Part I
 *as demoed by instructors*
 
-* (create an account)[https://github.com/join]
+* [create an account](https://github.com/join)
   - keep in mind that this is a public platform
 * watch this repository
 * create a repository
