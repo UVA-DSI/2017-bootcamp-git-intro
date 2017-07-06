@@ -5,7 +5,7 @@
 * [watch this repository](https://help.github.com/articles/watching-repositories/)
 * [create a repository](https://help.github.com/articles/create-a-repo/)
 * customize a repository - strongly recommended
-    - [LICENSE](LICENSE)
+    - [LICENSE](LICENSE) - [Licensing Initial](https://help.github.com/articles/licensing-a-repository/), [Licensing Supplemental](https://help.github.com/articles/adding-a-license-to-a-repository/)
     - [README.md](README.md)
 * comment on an issue
 * create a new issue
