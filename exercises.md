@@ -2,7 +2,7 @@
 *as demoed by instructors*
 
 * [create an account](https://github.com/join) - keep in mind that this is a public platform
-* watch this repository
+* [watch this repository](https://help.github.com/articles/watching-repositories/)
 * create a repository
 * customize a repository
   - strongly recommended
