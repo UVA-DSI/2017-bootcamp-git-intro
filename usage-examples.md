@@ -46,7 +46,7 @@
 - projects
 - commit summaries
 - [code review](https://github.com/features/code-review)
-- GitHub pages
+- [GitHub pages](https://pages.github.com/)
 - Graphs
 
 ### Use cases
