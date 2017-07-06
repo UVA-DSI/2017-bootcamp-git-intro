@@ -7,8 +7,8 @@
 * customize a repository - strongly recommended
     - [LICENSE](LICENSE) - [Licensing Initial](https://help.github.com/articles/licensing-a-repository/), [Licensing Supplemental](https://help.github.com/articles/adding-a-license-to-a-repository/)
     - [README.md](README.md) - [About READMEs](https://help.github.com/articles/about-readmes/)
-* comment on an issue
 * create a new issue
+* comment on an issue
 * create a new file
   * .md
   * .tsv
