@@ -126,3 +126,4 @@
 - [software archiving](https://www.software.ac.uk/blog/2016-09-26-making-code-citable-zenodo-and-github)
 - continuous integration
   - https://travis-ci.org/EnvironmentOntology/envo/builds/248163459
+- [Working with large files on GitHub](https://help.github.com/articles/working-with-large-files/)
