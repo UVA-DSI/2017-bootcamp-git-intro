@@ -6,7 +6,7 @@
 * [create a repository](https://help.github.com/articles/create-a-repo/)
 * customize a repository - strongly recommended
     - [LICENSE](LICENSE) - [Licensing Initial](https://help.github.com/articles/licensing-a-repository/), [Licensing Supplemental](https://help.github.com/articles/adding-a-license-to-a-repository/)
-    - [README.md](README.md)
+    - [README.md](README.md) - [About READMEs](https://help.github.com/articles/about-readmes/)
 * comment on an issue
 * create a new issue
 * create a new file
