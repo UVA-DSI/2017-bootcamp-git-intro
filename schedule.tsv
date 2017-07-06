@@ -1,12 +1,12 @@
-start time	end time	activity	comments
-9	9:15	introduction	all in Dell Classroom 105 - Pete - quick survey
-9:15	9:20	version control overview	Daniel
-9:20	9:25	git overview	- Pete
-9:25	9:30	GitHub overview	- Daniel
-9:30	10:00	hands-on work in browser	demo see Part I - [exercises.md](https://github.com/UVA-DSI/git-intro/blob/master/exercises.md)
-10:00	10:15	use cases	Daniel
-10:15	10:30	break	
-10:30	11:00	group work in browser	see Part II - [exercises.md](https://github.com/UVA-DSI/git-intro/blob/master/exercises.md)
-11:00	11:30	hands-on via command line	see Part III - [exercises.md](https://github.com/UVA-DSI/git-intro/blob/master/exercises.md)
-11:30	11:45	outlook	
-11:45	12:00	wrap-up	
+start time	end time	activity	presenter	comments
+9	9:15	introduction	Pete	all in Dell Classroom 105 - quick survey
+9:15	9:20	version control overview	Daniel	
+9:20	9:25	git overview	Pete	
+9:25	9:30	GitHub overview	Daniel	
+9:30	10:00	hands-on work in browser	Pete	demo see Part I - [exercises.md](https://github.com/UVA-DSI/git-intro/blob/master/exercises.md)
+10:00	10:15	use cases	Daniel	
+10:15	10:30	break		
+10:30	11:00	group work in browser	Pete	see Part II - [exercises.md](https://github.com/UVA-DSI/git-intro/blob/master/exercises.md)
+11:00	11:30	hands-on via command line	Pete	see Part III - [exercises.md](https://github.com/UVA-DSI/git-intro/blob/master/exercises.md)
+11:30	11:45	outlook	Daniel	
+11:45	12:00	wrap-up	Pete	
