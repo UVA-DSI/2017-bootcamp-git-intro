@@ -1,4 +1,4 @@
-# Hands-on work in web browser - Part I
+# Hands-on work in web browser - Part 1
 *as demoed by instructors*
 
 * [create an account](https://github.com/join) - keep in mind that this is a public platform
