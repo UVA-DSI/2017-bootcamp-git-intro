@@ -10,7 +10,7 @@
 * sync between remote and desktop [Upstream](https://help.github.com/articles/syncing-a-fork/)
 * further customization
   - optional
-    - .gitignore
+    - [.gitignore](.gitignore)
     - [ssh keys](https://help.github.com/articles/connecting-to-github-with-ssh/)
     - [ISSUE_TEMPLATE.md](ISSUE_TEMPLATE.md)
     - [CONTRIBUTING.md](CONTRIBUTING.md)
