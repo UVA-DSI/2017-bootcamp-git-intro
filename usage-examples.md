@@ -1,4 +1,4 @@
-# Version control (1)
+# Version control overview
 
 - general use cases
   - history (track changes/ backup)
@@ -127,7 +127,7 @@
 * [homepage](https://www.phacility.com/phabricator/)
 * [Setting up Phabricator to track a git repo](http://blog.dcycle.com/blog/80/setting-phabricator-track-git-repo/)
 
-# Version control and data
+# Version control outlook
 
 - [dat](https://datproject.org/)
 - [Quilt](https://github.com/Daniel-Mietchen/ideas/issues/242)
