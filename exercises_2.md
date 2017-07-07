@@ -9,5 +9,5 @@
 * [making a pull request](https://help.github.com/articles/creating-a-pull-request/)
 * commenting on a pull request
 * accepting a pull request
-* leave a comment on a specific line of code
+* [leave a comment on a specific line of code](https://github.com/gitlabhq/gitlabhq/issues/3152)
 * how to make the most use of the collaboration tools
