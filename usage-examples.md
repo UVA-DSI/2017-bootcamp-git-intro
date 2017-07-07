@@ -122,6 +122,11 @@
 
 * [homepage](https://bitbucket.org/)
 
+## Phabricator
+
+* [homepage](https://www.phacility.com/phabricator/)
+* [Setting up Phabricator to track a git repo](http://blog.dcycle.com/blog/80/setting-phabricator-track-git-repo/)
+
 # Version control and data
 
 - [dat](https://datproject.org/)
