@@ -60,6 +60,7 @@
     - [Linux](https://github.com/torvalds/linux)
     - [Mozilla](https://github.com/mozilla)
     - [Open Virginia](https://github.com/openva)
+    - [users from Charlottesville](https://github.com/search?utf8=%E2%9C%93&q=Charlottesville&type=Users)
     - [UVA / Charlottesville R Users Group](https://github.com/UVa-R-Users-Group)
     - [UVA School of Medicine Research Computing](https://github.com/uvasomrc)
       - [AWS bootcamp class this afternoon](https://github.com/uvasomrc/courses/blob/master/DSI-20170707.md)
