@@ -8,7 +8,7 @@
     - [LICENSE](LICENSE) - [Licensing Initial](https://help.github.com/articles/licensing-a-repository/), [Licensing Supplemental](https://help.github.com/articles/adding-a-license-to-a-repository/)
     - [README.md](README.md) - [About READMEs](https://help.github.com/articles/about-readmes/)
 * [create a new issue](https://help.github.com/articles/creating-an-issue/)
-* comment on an issue
+* [comment on an issue](https://github.com/UVA-DSI/git-intro/issues/4)
 * create a new file
   * .md
   * .tsv
