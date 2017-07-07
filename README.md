@@ -4,7 +4,7 @@ This repository hosts information related to an introduction to version control 
 
 # Schedule
 
-The class is to take place on July 7 from 9 am till 12 pm EDT in Dell Classroom 105. For details, see the [schedule](schedule.tsv).
+The class is to take place on July 7 from 9 am till 12 pm EDT in Dell Classroom 105. For details, see the [schedule](schedule.md).
 
 # Technical requirements
 
