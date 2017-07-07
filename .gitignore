@@ -2,4 +2,4 @@
 # For instance let's say you want to ignore txt files. You would just put *.txt into you .gitignore, like so
 *.txt
 
-# As you may have noticed # is used for commenting in the .gitignore file
+# As you may have noticed, # is used for commenting in the .gitignore file
