@@ -12,7 +12,7 @@
 * [create a new file](https://help.github.com/articles/adding-a-file-to-a-repository/)
   * .md
   * .tsv
-* edit an existing file
+* [edit an existing file](https://help.github.com/articles/editing-files-in-your-repository/)
 
 
 
