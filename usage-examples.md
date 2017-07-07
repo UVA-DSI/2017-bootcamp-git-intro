@@ -39,18 +39,17 @@
 
 ### Features
 
-- API
-- issues
-- labels
-- milestones
-- tool tips
-- filters
+- [API](https://developer.github.com/v3/)
+- [issues](https://github.com/UVA-DSI/git-intro/issues)
+- [labels](https://github.com/UVA-DSI/git-intro/labels)
+- [milestones](https://github.com/UVA-DSI/git-intro/milestones)
+- [filters](https://github.com/force11/force2017/issues?q=is%3Aissue+is%3Aopen+label%3Ahigh-priority)
 - [topics](https://github.com/search?q=topic%3Agit)
-- projects
-- commit summaries
+- [projects](https://help.github.com/articles/about-project-boards/)
+- [commit summaries](https://github.com/erlang/otp/wiki/Writing-good-commit-messages)
 - [code review](https://github.com/features/code-review)
 - [GitHub pages](https://pages.github.com/)
-- Graphs
+- [Graphs](https://github.com/AlexiaJM/Deep-learning-with-cats/graphs/contributors)
 
 ### Use cases
 
