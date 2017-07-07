@@ -2,7 +2,7 @@
 
 |start time|	end time	|activity	|presenter|	comments|
 |-----------|-----------|----------|--------|----------|
-|9:00|	9:15	|introduction|	Pete|	all in Dell Classroom 105 - [quick survey](student-pre-survey.tsv)|
+|9:00|	9:15	|introduction|	Pete|	all in [Dell Classroom 105](http://its.virginia.edu/labs/listFacDetail.php?room_id=275) - [quick survey](student-pre-survey.tsv)|
 |9:15|	9:20	|version control overview	|Daniel||	
 |9:20	|9:25|	git overview|	Pete||	
 |9:25	|9:30	|GitHub overview	|Daniel||	
