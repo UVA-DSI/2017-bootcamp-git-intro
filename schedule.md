@@ -7,7 +7,7 @@
 |9:20	|9:25|	git overview|	Pete||	
 |9:25	|9:30	|GitHub overview	|Daniel||	
 |9:30	|10:00	|hands-on work in browser|	Pete|	see [exercises 1](https://github.com/UVA-DSI/git-intro/blob/master/exercises_1.md)|
-|10:00	|10:15|	use cases|	Daniel	||
+|10:00	|10:15|	use cases|	Daniel	|| see [usage examples](https://github.com/UVA-DSI/git-intro/blob/master/usage-examples.md)|
 |10:15	|10:30	|break|||		
 |10:30	|11:00	|group work in browser	|Pete	|see [exercises 2](https://github.com/UVA-DSI/git-intro/blob/master/exercises_2.md)|
 |11:00	|11:30	|hands-on via command line|	Pete|	see [exercises 3](https://github.com/UVA-DSI/git-intro/blob/master/exercises_3.md)|
