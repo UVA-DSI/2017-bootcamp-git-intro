@@ -1,4 +1,4 @@
-# Hands-on work via command line - Part III
+# Hands-on work via command line - Part 3
 *with assistance upon request*
 
 * forking a repository
