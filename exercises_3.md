@@ -11,6 +11,6 @@
 * further customization
   - optional
     - .gitignore
-    - ssh keys
+    - [ssh keys](https://help.github.com/articles/connecting-to-github-with-ssh/)
     - [ISSUE_TEMPLATE.md](ISSUE_TEMPLATE.md)
     - [CONTRIBUTING.md](CONTRIBUTING.md)
