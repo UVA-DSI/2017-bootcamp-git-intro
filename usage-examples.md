@@ -27,11 +27,14 @@
 * [overview](http://rogerdudler.github.io/git-guide/)
 * [manual](https://git-scm.com/docs/user-manual.html)
 * [Pro Git](https://git-scm.com/book/en/v2) book
-* [Setting up Phabricator to track a git repo](http://blog.dcycle.com/blog/80/setting-phabricator-track-git-repo/)
+* [GitHub's git cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [GitLab's "Start using git"](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
 
 # git hosting platforms
 
 ## GitHub
+
+* [GitHub cheat sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 
 ### Features
