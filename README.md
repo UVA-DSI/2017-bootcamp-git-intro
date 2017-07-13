@@ -12,11 +12,7 @@ Participants should bring along a laptop or other device on which they can store
 
 # Practice
 
-The repo will also serve as a testing ground during the event, by way of the [exercises](exercises.md) and [issues](https://github.com/UVA-DSI/git-intro/issues). 
-
-# Demo repo
-
-To try things out, use the demo repo over at https://github.com/UVA-DSI/potatoes .
+To try things out, use the demo repo over at https://github.com/UVA-DSI/potatoes . The repo will also serve as a testing ground during the event, by way of the [exercises](exercises.md) and [issues](https://github.com/UVA-DSI/potatoes/issues). 
 
 # Reading
 
