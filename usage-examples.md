@@ -131,9 +131,11 @@
 
 - [dat](https://datproject.org/)
 - [Quilt](https://github.com/Daniel-Mietchen/ideas/issues/242)
-- data management plans
+- [data management plans](https://github.com/DMPRoadmap/roadmap)
 - [data sharing](https://github.com/bw4sz/Occupy/blob/master/InputData/ObservedData.csv) (accompanying a [paper](https://doi.org/10.1016/j.fooweb.2017.05.002))
 - data citation
+  - [Data Citation Principles](https://www.force11.org/group/joint-declaration-data-citation-principles-final)
+  - [Achieving human and machine accessibility of cited data in scholarly publications](https://doi.org/10.7717/peerj-cs.1)
   - see also [software citation]()
 - [software archiving](https://www.software.ac.uk/blog/2016-09-26-making-code-citable-zenodo-and-github)
 - continuous integration
