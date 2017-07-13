@@ -61,6 +61,7 @@
     - [Google](https://github.com/google)
     - [Linux](https://github.com/torvalds/linux)
     - [Mozilla](https://github.com/mozilla)
+    - [National Cancer Informatics Program](https://github.com/NCIP)
     - [Open Virginia](https://github.com/openva)
     - [users from Charlottesville](https://github.com/search?utf8=%E2%9C%93&q=Charlottesville&type=Users)
     - [UVA / Charlottesville R Users Group](https://github.com/UVa-R-Users-Group)
